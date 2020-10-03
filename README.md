@@ -122,6 +122,7 @@ Simply press <kbd>Command</kbd> + <kbd>F</kbd> to search for a keyword. If you�
 - ![v3](img/vapor-3.png) [SteamPress](https://github.com/brokenhandsio/SteamPress) – A Blogging Engine and Platform written in Swift for use with the Vapor Framework.
 - ![v3](img/vapor-3.png) [User Manager Service](https://github.com/skelpo/UserManager) – A small, useful user manager made for production application setups.
 - ![v3](img/vapor-3.png) [Swifttube](https://github.com/ahmetws/swifttube) – Curates iOS conference videos in one place.
+- ![v3](img/vapor-3.png) [Puffery](https://github.com/vknabel/puffery) – Send push notifications to channels of an iOS app.
 
 ## License
 
